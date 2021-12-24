@@ -1,0 +1,268 @@
+{
+	"items": {
+		"0": {
+			"id": 0,
+			"imgPath": "images/tauar111.jpg",
+			"name": "Mercedes W124 E500",
+			"discount": "-10%",
+			"price1": "3 000 000₸",
+			"price2": "3 300 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "новый кроссовер, 3.5 л, бензин, КПП автомат, черный"
+		},
+		"1": {
+			"id": 1,
+			"imgPath": "images/tauar222.jpeg",
+			"name": "BMW 7-Series 2000",
+			"discount": "-25%",
+			"price1": "3 100 000₸",
+			"price2": "4 000 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "Седан, 3.5 л, бензин, КПП автомат, с пробегом 92 000 км, черный, Без вложений торг"
+		},
+		"2": {
+			"id": 2,
+			"imgPath": "images/tauar3.jpg",
+			"name": "Mitsubishi Lancer",
+			"discount": "-7%",
+			"price1": "4 500 000₸",
+			"price2": "4 815 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "Седан, 1.5 л, бензин, КПП механика, серебристый, тонировка, ветровики, хрустальная оптика"
+		},
+		"3": {
+			"id": 3,
+			"imgPath": "images/tauar3.jpg",
+			"name": "Tesla Model X 2021",
+			"discount": "-4%",
+			"price1": "55 000 000₸",
+			"price2": "57 200 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "Кроссовер, электричество, КПП автомат, белый, литые диски, панорамная крыша, дневные ходовые огни"
+		},
+		"4": {
+			"id": 4,
+			"imgPath": "images/tauar5.jpg",
+			"name": "Mercedes G63 AMG 463",
+			"discount": "-13%",
+			"price1": "49 000 000₸",
+			"price2": "55 370 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "Внедорожник, 5.5 л, бензин, КПП автомат, с пробегом 68 092 км"
+		},
+		"5": {
+			"id": 5,
+			"imgPath": "images/tauar6.jpeg",
+			"name": "Hyundai Accent 2017",
+			"discount": "-20%",
+			"price1": "7 500 000₸",
+			"price2": "9 000 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "car",
+			"description": "Cедан, 1.6 л, бензин, КПП автомат, с пробегом 147 666 км, серый, металлик, тонировка"
+		},
+		"6": {
+			"id": 6,
+			"imgPath": "images/tauar7.jpg",
+			"name": "Yamaha R6",
+			"discount": "-10%",
+			"price1": "1 600 000₸",
+			"price2": "1 760 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "moto",
+			"description": "Mотоцикл, с пробегом, В хорошем состоянии!"
+		},
+		"7": {
+			"id": 7,
+			"imgPath": "images/tauar8.jpg",
+			"name": "Kayo K4 2021",
+			"discount": "-25%",
+			"price1": "720 000₸",
+			"price2": "900 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "moto",
+			"description": "Мотоцикл, новый, 19 л.с, производитель: Zongshen"
+		},
+		"8": {
+			"id": 8,
+			"imgPath": "images/tauar9.jpg",
+			"name": "BRP Skrambler 1000xp 2017",
+			"discount": "-7%",
+			"price1": "4 000 000₸",
+			"price2": "4 280 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "moto",
+			"description": "Квадроцикл, с пробегом, В отличном состоянии. Пробег 4900 км."
+		},
+		"9": {
+			"id": 9,
+			"imgPath": "images/tauar10.jpeg",
+			"name": "Stormline Heavy...",
+			"discount": "-10%",
+			"price1": "700 000₸",
+			"price2": "770 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "boat",
+			"description": "Mалый вес, V-образное днище, надувной киль. Лодка для жестких условий эксплуатации."
+		},
+		"10": {
+			"id": 10,
+			"imgPath": "images/tauar11.jpg",
+			"name": "JET SKI 2018",
+			"discount": "-25%",
+			"price1": "2 000 000₸",
+			"price2": "2 500 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "boat",
+			"description": "Двигатель: двухтактный, 120 л.с, электрический стартер, 12 В 18 А/час"
+		},
+		"11": {
+			"id": 11,
+			"imgPath": "images/tauar12.jpg",
+			"name": "OKA-4",
+			"discount": "-7%",
+			"price1": "1 500 000₸",
+			"price2": "1 605 000₸",
+			"saved": false,
+			"inCart": false,
+			"category": "boat",
+			"description": "Длина – 4,25 м, 190 кг, 1,48/0,77 м. "
+		}
+	},
+	"news": {
+		"0": {
+			"id": 0,
+			"title": "Raketa öndıretın konsern krosover shyğarady",
+			"description": "Alys qaşyqtyqqa ūşatyn S-300, S-400 jäne S-500 zenittık keşenderın öndıretın kompania öz erkımen azamattyq kölık şyğarmaityny anyq. Resei prezidentı Putinnıñ tapsyrmasy boiynşa konsernnıñ jalpy öndırısınde azamattyq jäne ekıjaqty qyzmet atqaratyn önımderdıñ ülesı 2025 jylğa qarai 30 %, al 2030 jylğa qarai 50 %-ğa jetuı kerek. Sol üşın de raketalar qataryna E-NEVA dep atalatyn krosover qosylady.",
+			"content": {
+				"0": {
+					"text": "Alys qaşyqtyqqa ūşatyn S-300, S-400 jäne S-500 zenittık keşenderın öndıretın kompania öz erkımen azamattyq kölık şyğarmaityny anyq. Resei prezidentı Putinnıñ tapsyrmasy boiynşa konsernnıñ jalpy öndırısınde azamattyq jäne ekıjaqty qyzmet atqaratyn önımderdıñ ülesı 2025 jylğa qarai 30 %, al 2030 jylğa qarai 50 %-ğa jetuı kerek. Sol üşın de raketalar qataryna E-NEVA dep atalatyn krosover qosylady.",
+					"imgPath": "images/news1-1.jpg"
+				},
+				"1": {
+					"text": "Jaña önımnıñ jarialanğan suretterınen 15 düimdık mültimedia planşetın, sifrly aspaptar panelın jäne emblemasy basqa «şkoda» rölın köruge bolady. «E-Nevanyñ» ūzyndyğy — 4.5 metr. Demek ol orta kölemdı SUV sanatyna jatady. Är öske ekıden ornatylğan elektromotor (tolyq jetektı bolady degen söz) 435 at küşı men 824 Nm moment beredı. Osynyñ arqasynda krosover 2.7 sekundta 60 km/sağ deiın jyldamdyq alady, al eñ joğary jyldamdyğy 197 km/sağ bolady. Jürıs qory 463 şaqyrymnan aspaidy.",
+					"imgPath": "images/news1-2.jpg"
+				},
+				"2": {
+					"text": "Batareia quaty — 90 kVt.sağ. Bolaşaqta sutegımen jūmys ısteitın elektrohimialyq generatory bar gibrid küştık qūrylymmen jabdyqtaluy mümkın. Konsern E-NEVA elektromobilınıñ serialy öndırısı turaly mälımet bergen joq, E-NEVA jaily tolyq aqparat qaşan jarialanatyny da belgısız."
+				}
+			},
+			"imgPath": "images/news1.jpg",
+			"views": "133",
+			"date": "23 jeltoqsan 2021"
+		},
+		"1": {
+			"id": 1,
+			"title": "Furgon men «Gazel» ielerı salyqty jük kölıgı retınde töleidı",
+			"description": "Tüzetu engızılgen qūjatqa jaqynda el prezidentı qol qoidy. Endı jük kölıkterınıñ qataryna būrynğydai S sanatyndağy (CE, C1E, C1) avtomobilden bölek önerkäsıp, azyq-tülık jäne auylşaruaşylyq önımderın tasymaldauğa arnalğan V sanatyndağy furgondar men borttyq jük platformasy bar V sanatyndağy maşinalar da kıredı. Pikaptar ğana būl qatarğa qosylmaidy. İağni, barlyq jeñıl komersialyq kölıktı qamtidy.",
+			"content": {
+				"0": {
+					"text": "Tüzetu engızılgen qūjatqa jaqynda el prezidentı qol qoidy. Endı jük kölıkterınıñ qataryna būrynğydai S sanatyndağy (CE, C1E, C1) avtomobilden bölek önerkäsıp, azyq-tülık jäne auylşaruaşylyq önımderın tasymaldauğa arnalğan V sanatyndağy furgondar men borttyq jük platformasy bar V sanatyndağy maşinalar da kıredı. Pikaptar ğana būl qatarğa qosylmaidy. İağni, barlyq jeñıl komersialyq kölıktı qamtidy.",
+					"imgPath": "images/news2-1.jpg"
+				},
+				"1": {
+					"text": "Tüzetu 2021 jyly 1 qañtardan bastap küşıne enedı. Demek biyldan bastap V sanatyndağy şağyn jük maşinasynyñ ielerı jeñıl avtomobil retınde emes, jük kölıgı retınde salyq töleidı. Mysaly, būryn qozğaltqyş kölemı 2690 tekşe santimetr bolatyn «GAZel» furgony üşın kölık iesı memleketke 9 AEK salyq tölese, jaña erejege sai maşinanyñ jük kötergıştıgı 1.5 tonna bolğandyqtan, salyq mölşerı 5 AEK bolady."
+				}
+			},
+			"imgPath": "images/news2.jpg",
+			"views": "210",
+			"date": "22 jeltoqsan 2021"
+		},
+		"2": {
+			"id": 2,
+			"title": "Eñ kışkentai BMW-dağy eñ ülken V12",
+			"description": "Norvegiada ekı kupenıñ bıregei simbiozy satylyp jatyr. Şeberler 1994 jyly jaryq körgen BMW Compact-tyñ ışın aqtaryp, jaña küştık qūrylym ornatqan. Būryn qatarly törttık tūrğan kapot astyna BMW 850 CSi modelınen alynğan 5.6 litrlık ırı V12 jaiğasty. Sportkar mehanikalyq qorabyn da berıptı, sondyqtan 400 at küşı artqy döñgelekterge berıledı. Nätijesınde kölıktıñ quaty men jyldamdyğy artty.",
+			"content": {
+				"0": {
+					"text": "Norvegiada ekı kupenıñ bıregei simbiozy satylyp jatyr. Şeberler 1994 jyly jaryq körgen BMW Compact-tyñ ışın aqtaryp, jaña küştık qūrylym ornatqan. Būryn qatarly törttık tūrğan kapot astyna BMW 850 CSi modelınen alynğan 5.6 litrlık ırı V12 jaiğasty. Sportkar mehanikalyq qorabyn da berıptı, sondyqtan 400 at küşı artqy döñgelekterge berıledı. Nätijesınde kölıktıñ quaty men jyldamdyğy artty.",
+					"imgPath": "images/news3-1.jpg"
+				},
+				"1": {
+					"text": "«Segızdık» jalğyz donor emes. Compact-tyñ aspasy, aspaptar panelı, sezgekterı men qara bylğarymen qaptalğan oryndyqtary E36 M3-ten alynğan. M-bastyryq pen Hartge döñgelek diskılerı kışkentai sportkardyñ obrazyn tolyqtyrdy.",
+					"imgPath": "images/news3-2.jpg"
+				},
+				"3": {
+					"text": "Maşina 16 jyl būryn türlengen. 104 myñ şaqyrym jol jürgen eskı kölık üşın iesı 299 myñ krona (33 myñ dollar) sūraidy."
+				}
+			},
+			"imgPath": "images/news3.jpg",
+			"views": "332",
+			"date": "21 jeltoqsan 2021"
+		},
+		"3": {
+			"id": 3,
+			"title": "Avtogaz bır jylda qanşa qymbattady?",
+			"description": "Qazırgımen salystyrğanda biyl jyl basynda gaz äldeqaida arzan boldy. Bıraq oğan saudagerlerdıñ jomarttyğy sebep bolğan joq. 2020 jyly säuırden bastap Qazaqstanda sūiytylğan mūnai gazyn satudyñ şektı bağasy belgılendı. Bıraq mölşerı är aimaqta ärtürlı boldy. Mysaly, Şymkenttegı janarmai qūiu beketterı gazdy 55 teñgeden, Almatyda 69 teñgeden satty. Al eñ arzan gaz Mañğystau oblysynda (50 teñge), eñ qymbaty Qarağandy oblysynda (73 teñge) edı.",
+			"content": {
+				"0": {
+					"text": "Elımızdegı kölıkterdıñ köbı benzinmen jüredı. Al ekınşı tanymal otyn dizel emes, gaz. Qazır joldarda 313 myñ osyndai tehnika jür, 2019 jyly mūndai maşinalar qazırgıden ekı ese az (140 myñ) edı. Aita keterlıgı, Qazaqstanda dizelmen jüretın maşina (jük kölıkterı men avtobustardy qosqanda) 90 myñ ğana."
+				},
+				"1": {
+					"text": "Avtogaz tūtynu mölşerı kürt artqandyqtan, bağasy da aitarlyqtai östı. Qazır är öñırdegı 80–130 teñge aralyğynda satylyp jatyr. Anyqtama retınde: 2016 jyldyñ aiağy men 2017 jyldyñ basynda el tūrğyndary Aİ-92 benzinınıñ bır litrın 130 teñgege alatyn."
+				},
+				"3": {
+					"text": "Qazırgımen salystyrğanda biyl jyl basynda gaz äldeqaida arzan boldy. Bıraq oğan saudagerlerdıñ jomarttyğy sebep bolğan joq. 2020 jyly säuırden bastap Qazaqstanda sūiytylğan mūnai gazyn satudyñ şektı bağasy belgılendı. Bıraq mölşerı är aimaqta ärtürlı boldy. Mysaly, Şymkenttegı janarmai qūiu beketterı gazdy 55 teñgeden, Almatyda 69 teñgeden satty. Al eñ arzan gaz Mañğystau oblysynda (50 teñge), eñ qymbaty Qarağandy oblysynda (73 teñge) edı."
+				},
+				"4": {
+					"text": "Bağany retteu 2021 jyly 1 nauryzğa deiın jalğasty, alaida ıs jüzınde jağdai basqa boldy. Mysaly, 2020 jyly jeltoqsanda jäne biyl aqpanda Aqtau tūrğyndary gaz qūnynyñ belgılengen şekten asyp ketkenıne şağymdandy. Ol kezde beketter bır litr gazdy 50 teñgeden emes, 60–70 teñgeden saudalady.",
+					"imgPath": "images/news4-1.jpg"
+				},
+				"5": {
+					"text": "Biyl köktemde bağany retteu küşın joiğanda beketterdegı gaz qūny bırden şaryqtağan joq. Nağyz ösım 2021 jyly küzde bastaldy. Mysaly, Aqtöbede gaz 2020 jyly qazanda 54 teñge, 2021 jyly qazanda 63 teñge bolsa, bır aidan keiın 75 teñgege deiın qymbattady. Petropavlda bırden 30 teñgege östı. Mūnyñ soñy gaz tapşylyğyna ūlasyp, beketter otyndy talonmen ğana satty. Avtogazben jüretın kölık eñ köp Mañğystauda gaz bağasy qyrküiek pen qaraşa aralyğynda 63 teñgeden 80–90 teñgege deiın östı.",
+					"imgPath": "images/news4-2.jpg"
+				},
+				"6":{
+					"text" : "2022 jyly kögıldır otyn arzandaityny anyq. Keler jyly 1 qañtardan bastap sūiyltylğan gaz tolyqtai elektrondy sauda alañdary arqyly satylady. Būl joba boiynşa gaz bağasy sūranys pen ūsynysqa sai retteledı, memleket aralaspaidy. Avtogaz benzinge qarağanda arzan bolğandyqtan, ony tūtynatyndar älı de artady dep boljauğa negız bar. Bır ai būryn Energetika vise-ministrı Mūrat Jürebekov jaqyn arada sūiyltylğan gazdyñ jaña közı nemese jaña öndıruşıler bolmaitynyn aitqan. Demek alda ösım tağy baiqalady degen söz. Är aimaqtağy bağa aiyrmaşylyğy da joiyluy mümkın."
+				},
+				"7": {
+					"text": "Üş jyl būryn Energetika ministrlıgı tabiği gazdy motor otyny retınde qoldanu aiasyn keñeitu jönındegı 2019–2022 jyldarğa arnalğan jospar boiynşa azamattardy kölıgın avtogazğa auystyruğa yntalandyru üşın kölık salyğyn tömendetudı ūsynğan. Tıptı avtodilerlerge elge biootyn tūtynatyn maşinalar (benzin/gaz) äkeluge qolaily jağdai jasau qajettıgı de söz boldy."
+				}
+			},
+			"imgPath": "images/news4.jpg",
+			"views": "155",
+			"date": "20 jeltoqsan 2021"
+		},
+		"4": {
+			"id": 4,
+			"title": "Qaraşadağy avtonaryq: Lada ekınşı orynğa şyqty",
+			"description": "Tanymal modelder tızımınde ötken aida da Chevrolet Cobalt (1199 dana) köş bastady. Toyota Camry (623) biyl ekınşı orynğa ie boldy. Chevrolet Nexia (538) küzdıñ soñğy aiynda üşınşı satyğa yğysty. 4, 5, 6-oryndarğa «ladanyñ» üş modelı — Vesta (442), Largus (403) jäne Granta (360) jaiğasty. Hyundai Accent (354) tört satyğa tömendep, jetınşı qatardan körındı. Toyota RAV4 (289) pen Creta (141) Qazaqstandağy eñ tanymal krosover atağyna jalğasty talasuda. Kia Sorento (236) alğaş ret toğyzynşy orynğa ie boldy. Rio (209) üzdık ondyqty tüiındedı.",
+			"content": {
+				"0": {
+					"text": "Ädette qaraşa men jeltoqsanda maşina eñ köp satylatyn, bıraq biyl olai bolmady. Jaña kölıkke sūranys bar, bıraq maşina tapşy. Jartylai ötkızgış jetıspeuşılıgı men Qytai şekarasyndağy mäselelerge bailanysty dilerlık ortalyqtar bos tūr."
+				},
+				"1": {
+					"text": "Osyğan qaramastan qaraşada 8972 jeñıl maşina men jeñıl komersialyq kölık, 1056 jük kölıgı men avtobus satyldy. Būl byltyrğy qaraşamen salystyrğanda 8.6 %-ğa artyq. Biyl 11 aida 106 873 avtokölık öttı, al 2020 jyly qañtar-qaraşa ailarynda 82 631 dana maşina iesın tapqan."
+				},
+				"2": {
+					"text": "Kölık tapşylyğyna bailanysty eñ köp satylğan markalardyñ ondyğynda özgerıs boldy. Chevrolet bırınşı oryndy saqtap qaldy (2241 dana, +20.3 %), al Hyundai 884 maşina satyp (—59.2 %), ekınşı orynnan besınşı orynğa bır-aq syrğydy. Lada biyl alğaş ret üzdık üştıkke endı — 1482 dana, +24.2 %. Degenmen quanuğa älı erte, VAZ dilerlerınde maşina qalğan joq. Toyota tūraqty türde üşınşı qatarda tūr (1292 dana, +76.2 %). Kia da kölık tapşylyğyn sezınude, bıraq olar byltyrğydan äldeqaida köp maşina satty — 919 dana, +81.6 %."
+				},
+				"3": {
+					"text": "Nissan eldegı eñ köp satylğan markalar tızımınde altynşy orynğa jaiğasyp, öz rekordyn jañartty — 470 dana, +71.5 %. Renault jetınşı orynğa ie boldy — 409 dana, +83.4 %. Üzdık ondyqqa engen özge markalar: JAC — 288 dana (—0.3 %); Haval — 209 dana, jäne Volkswagen — 193 dana (—35 %).",
+					"imgPath": "images/news5-1.jpg"
+				},
+				"4": {
+					"text": "Tanymal modelder tızımınde ötken aida da Chevrolet Cobalt (1199 dana) köş bastady. Toyota Camry (623) biyl ekınşı orynğa ie boldy. Chevrolet Nexia (538) küzdıñ soñğy aiynda üşınşı satyğa yğysty. 4, 5, 6-oryndarğa «ladanyñ» üş modelı — Vesta (442), Largus (403) jäne Granta (360) jaiğasty. Hyundai Accent (354) tört satyğa tömendep, jetınşı qatardan körındı. Toyota RAV4 (289) pen Creta (141) Qazaqstandağy eñ tanymal krosover atağyna jalğasty talasuda. Kia Sorento (236) alğaş ret toğyzynşy orynğa ie boldy. Rio (209) üzdık ondyqty tüiındedı."
+				}
+			},
+			"imgPath": "images/news5.jpg",
+			"views": "590",
+			"date": "15 jeltoqsan 2021"
+		}
+	}
+}
